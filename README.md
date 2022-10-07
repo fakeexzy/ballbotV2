@@ -53,6 +53,6 @@ Or
 ## Penulis
 [![bolaxd](https://github.com/bolaxd.png?size=100)](https://github.com/bolaxd)
 ## Big Thanks To
-[![Adiwajshing](https://github.com/adiwajshing.png?size=200)](https://github.com/adiwajsing)
-[![Fokusdotid](https://github.com/Fokusdotid.png?size=200)](https://github.com/Fokusdotid)
-[![ShionMDv](https://github.com/ShionMDv.png?size=200)](https://github.com/ShionMDv)
+[![Adiwajshing](https://github.com/adiwajshing.png?size=80)](https://github.com/adiwajsing)
+[![Fokusdotid](https://github.com/Fokusdotid.png?size=80)](https://github.com/Fokusdotid)
+[![ShionMDv](https://github.com/ShionMDv.png?size=80)](https://github.com/ShionMDv)
