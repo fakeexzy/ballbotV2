@@ -50,7 +50,7 @@ Or
 > npm test
 ```
 scan QR nya untuk terhubung ke whatsapp
-
+<img src="https://telegra.ph/file/9b92ead72b872582220da.jpg" width="250">
 ## Penulis
 [![bolaxd](https://github.com/bolaxd.png?size=100)](https://github.com/bolaxd)
 ## Big Thanks To
